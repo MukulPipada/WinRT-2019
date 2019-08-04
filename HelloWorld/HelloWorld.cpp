@@ -54,7 +54,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT iMsg, WPARAM wParam, LPARAM lParam)
 
 		SetTextColor(hdc, RGB(0, 255, 0));
 
-		SetBkColor(hdc, RGB(0, 0, 0, ));
+		SetBkColor(hdc, RGB(0, 0, 0 ));
 
 		DrawText(hdc, str, -1, &rc, DT_SINGLELINE | DT_CENTER | DT_VCENTER);
 
