@@ -1,0 +1,3 @@
+﻿Hello_Dll.obj : error LNK2019: unresolved external symbol MakeSquare referenced in function "__int64 __cdecl WndProc(struct HWND__ *,unsigned int,unsigned __int64,__int64)" (?WndProc@@YA_JPEAUHWND__@@I_K_J@Z)
+MyMath.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Admin\Desktop\SDK\Square.dll\Hello_Dll\x64\Debug\Hello_Dll.exe : fatal error LNK1120: 1 unresolved externals
